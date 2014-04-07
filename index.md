@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: sunorry's blog
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
@@ -12,17 +12,17 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 ## Update Author Attributes
 
 In `_config.yml` remember to specify your own data:
-    
+
     title : My Blog =)
-    
+
     author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+      name : sunorry
+      email : sunorry@gmail.com
+      github : sunorry
+      weibo : 大人物大梦想
 
 The theme should reference these variables whenever needed.
-    
+
 ## Sample Posts
 
 This blog contains sample posts which help stage pages and blog data.
