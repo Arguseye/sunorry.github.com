@@ -1,13 +1,10 @@
 ---
 layout: page
-title: xx sunorry's blog
-tagline: xxx
+title: welcome to sunorry's blog
+tagline: ^-^
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
 ## Update Author Attributes
 
@@ -21,7 +18,6 @@ In `_config.yml` remember to specify your own data:
       github : sunorry
       weibo : 大人物大梦想
 
-The theme should reference these variables whenever needed.
 
 ## Sample Posts
 
