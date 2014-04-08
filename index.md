@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: sunorry's blog
-tagline: ^-^
 ---
 {% include JB/setup %}
 
