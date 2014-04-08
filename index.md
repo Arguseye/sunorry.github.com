@@ -15,7 +15,7 @@ title: sunorry's blog
       name : sunorry
       email : sunorry@gmail.com
       github : sunorry
-      weibo : 大人物大梦想
+      weibo : @大人物大梦想
 
 
 ## Sample Posts
