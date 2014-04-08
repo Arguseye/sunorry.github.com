@@ -4,6 +4,7 @@ title: sunorry's blog
 ---
 {% include JB/setup %}
 
+## Posts
 
 <ul class="posts">
   {% for post in site.posts %}
