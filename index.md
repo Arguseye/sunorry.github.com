@@ -6,9 +6,9 @@ tagline: ^-^
 {% include JB/setup %}
 
 
-## Update Author Attributes
+## About me
 
-In `_config.yml` remember to specify your own data:
+半路 `f2e`
 
     title : My Blog =)
 
