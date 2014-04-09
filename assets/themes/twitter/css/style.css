@@ -73,3 +73,6 @@
 .container-narrow div.content {
   font-size: 16px;
   line-height: 26px; }
+
+.container-narrow div.content li {
+  line-height: 25px; }
