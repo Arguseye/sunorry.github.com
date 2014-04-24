@@ -67,6 +67,12 @@
 
 
 /*customize*/
+.posts li:first-child {
+  color: limegreen;
+}
+.posts li:nth-child(2) {
+  color: limegreen;
+}
 .posts > li {
   font-size: 20px; }
 
