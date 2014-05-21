@@ -6,21 +6,21 @@ title: sunorry's blog
 
 ## Posts
 
-<!-- <ul class="posts">
+<ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
-</ul> -->
+</ul>
 
 <!-- post styling -->
 
-{% for post in paginator.posts %}
+<!-- {% for post in paginator.posts %}
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <div class="content">
     {{ post.content }}
   </div>
   <aside class="details">posted on the <time>{{ post.date | date_to_string }}</time></aside>
-{% endfor %}
+{% endfor %} -->
 
 <!-- pagination (a page1 folder isn't created by Jekyll.
 To avoid 404s when going to the first page it must be
